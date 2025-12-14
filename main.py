@@ -1,5 +1,32 @@
-import test
+import map;
+import new;
 
-printtest = test.Test()
+class game_loop():
+    #
 
-printtest.writetest()
+    def __init__(self):
+        #
+        #
+
+        print("Game initialized.")
+
+        self.new = new.new()
+
+    def run(self):
+        #
+        #
+
+        print("Welcome to the Game!")
+
+        next = input("Press Enter for next round")
+
+        if next == "":
+            self.new.calculate()
+            self.run()
+        
+
+
+
+
+game_loop = game_loop()
+game_loop.run()
