@@ -1,0 +1,148 @@
+{
+    "Länder": [
+        {
+            "Name": "Deutschland",
+            "Geld": 408.0
+        },
+        {
+            "Name": "Vereinigtes Königreich",
+            "Geld": 288.0
+        },
+        {
+            "Name": "Frankreich",
+            "Geld": 255.0
+        },
+        {
+            "Name": "Italien",
+            "Geld": 240.0
+        },
+        {
+            "Name": "Spanien",
+            "Geld": 180.0
+        },
+        {
+            "Name": "Portugal",
+            "Geld": 45.0
+        },
+        {
+            "Name": "Belgien",
+            "Geld": 60.0
+        },
+        {
+            "Name": "Niederlande",
+            "Geld": 75.0
+        },
+        {
+            "Name": "Luxemburg",
+            "Geld": 15.0
+        },
+        {
+            "Name": "Schweiz",
+            "Geld": 90.0
+        },
+        {
+            "Name": "Norwegen",
+            "Geld": 75.0
+        },
+        {
+            "Name": "Schweden",
+            "Geld": 105.0
+        },
+        {
+            "Name": "Dänemark",
+            "Geld": 60.0
+        },
+        {
+            "Name": "Finnland",
+            "Geld": 45.0
+        },
+        {
+            "Name": "Irland",
+            "Geld": 54.0
+        },
+        {
+            "Name": "Island",
+            "Geld": 9.0
+        },
+        {
+            "Name": "Polen",
+            "Geld": 159.0
+        },
+        {
+            "Name": "Freie Stadt Danzig",
+            "Geld": 6.0
+        },
+        {
+            "Name": "Rumänien",
+            "Geld": 102.0
+        },
+        {
+            "Name": "Bulgarien",
+            "Geld": 36.0
+        },
+        {
+            "Name": "Ungarn",
+            "Geld": 48.0
+        },
+        {
+            "Name": "Jugoslawien",
+            "Geld": 123.0
+        },
+        {
+            "Name": "Albanien",
+            "Geld": 15.0
+        },
+        {
+            "Name": "Türkei",
+            "Geld": 75.0
+        },
+        {
+            "Name": "Griechenland",
+            "Geld": 60.0
+        },
+        {
+            "Name": "Protektorat Böhmen und Mähren",
+            "Geld": 66.0
+        },
+        {
+            "Name": "Slowakei",
+            "Geld": 21.0
+        },
+        {
+            "Name": "Estland",
+            "Geld": 12.0
+        },
+        {
+            "Name": "Lettland",
+            "Geld": 15.0
+        },
+        {
+            "Name": "Litauen",
+            "Geld": 18.0
+        },
+        {
+            "Name": "Sowjetunion",
+            "Geld": 600.0
+        },
+        {
+            "Name": "Monaco",
+            "Geld": 3.0
+        },
+        {
+            "Name": "Andorra",
+            "Geld": 3.0
+        },
+        {
+            "Name": "Liechtenstein",
+            "Geld": 3.0
+        },
+        {
+            "Name": "San Marino",
+            "Geld": 3.0
+        },
+        {
+            "Name": "Vatikanstadt",
+            "Geld": 0.0
+        }
+    ]
+}

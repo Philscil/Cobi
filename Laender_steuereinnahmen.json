@@ -1,0 +1,148 @@
+{
+    "Länder": [
+        {
+            "Name": "Deutschland",
+            "Steuereinnahmen": 136.0
+        },
+        {
+            "Name": "Vereinigtes Königreich",
+            "Steuereinnahmen": 96.0
+        },
+        {
+            "Name": "Frankreich",
+            "Steuereinnahmen": 85.0
+        },
+        {
+            "Name": "Italien",
+            "Steuereinnahmen": 80.0
+        },
+        {
+            "Name": "Spanien",
+            "Steuereinnahmen": 60.0
+        },
+        {
+            "Name": "Portugal",
+            "Steuereinnahmen": 15.0
+        },
+        {
+            "Name": "Belgien",
+            "Steuereinnahmen": 20.0
+        },
+        {
+            "Name": "Niederlande",
+            "Steuereinnahmen": 25.0
+        },
+        {
+            "Name": "Luxemburg",
+            "Steuereinnahmen": 5.0
+        },
+        {
+            "Name": "Schweiz",
+            "Steuereinnahmen": 30.0
+        },
+        {
+            "Name": "Norwegen",
+            "Steuereinnahmen": 25.0
+        },
+        {
+            "Name": "Schweden",
+            "Steuereinnahmen": 35.0
+        },
+        {
+            "Name": "Dänemark",
+            "Steuereinnahmen": 20.0
+        },
+        {
+            "Name": "Finnland",
+            "Steuereinnahmen": 15.0
+        },
+        {
+            "Name": "Irland",
+            "Steuereinnahmen": 18.0
+        },
+        {
+            "Name": "Island",
+            "Steuereinnahmen": 3.0
+        },
+        {
+            "Name": "Polen",
+            "Steuereinnahmen": 53.0
+        },
+        {
+            "Name": "Freie Stadt Danzig",
+            "Steuereinnahmen": 2.0
+        },
+        {
+            "Name": "Rumänien",
+            "Steuereinnahmen": 34.0
+        },
+        {
+            "Name": "Bulgarien",
+            "Steuereinnahmen": 12.0
+        },
+        {
+            "Name": "Ungarn",
+            "Steuereinnahmen": 16.0
+        },
+        {
+            "Name": "Jugoslawien",
+            "Steuereinnahmen": 41.0
+        },
+        {
+            "Name": "Albanien",
+            "Steuereinnahmen": 5.0
+        },
+        {
+            "Name": "Türkei",
+            "Steuereinnahmen": 25.0
+        },
+        {
+            "Name": "Griechenland",
+            "Steuereinnahmen": 20.0
+        },
+        {
+            "Name": "Protektorat Böhmen und Mähren",
+            "Steuereinnahmen": 22.0
+        },
+        {
+            "Name": "Slowakei",
+            "Steuereinnahmen": 7.0
+        },
+        {
+            "Name": "Estland",
+            "Steuereinnahmen": 4.0
+        },
+        {
+            "Name": "Lettland",
+            "Steuereinnahmen": 5.0
+        },
+        {
+            "Name": "Litauen",
+            "Steuereinnahmen": 6.0
+        },
+        {
+            "Name": "Sowjetunion",
+            "Steuereinnahmen": 200.0
+        },
+        {
+            "Name": "Monaco",
+            "Steuereinnahmen": 1.0
+        },
+        {
+            "Name": "Andorra",
+            "Steuereinnahmen": 1.0
+        },
+        {
+            "Name": "Liechtenstein",
+            "Steuereinnahmen": 1.0
+        },
+        {
+            "Name": "San Marino",
+            "Steuereinnahmen": 1.0
+        },
+        {
+            "Name": "Vatikanstadt",
+            "Steuereinnahmen": 0.0
+        }
+    ]
+}
