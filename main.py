@@ -1,5 +1,7 @@
-import map;
-import new;
+import json
+
+import map
+import new
 
 class game_loop():
     #
@@ -10,13 +12,22 @@ class game_loop():
 
         print("Game initialized.")
 
+        with open ("storage/players.json", "r") as f:
+            self.player_data = json.load(f)
+
         self.new = new.new()
+        self.map = map.Map()
 
     def run(self):
         #
         #
 
-        print("Welcome to the Game!")
+        for i in range(self.player_data["participants"]):
+
+            
+
+
+        self.map.display()
 
         next = input("Press Enter for next round")
 

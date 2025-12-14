@@ -1,0 +1,8 @@
+{
+    "players":{
+        "1": { "Country": "Deutschland", "Type": "Player"},
+        "2": { "Country": "Italien", "Type": "Player"},
+        "3": { "Country": "Sowjetunion", "Type": "Player"},
+        "4": { "Country": "Großbritannien", "Type": "AI"}
+    }
+}
