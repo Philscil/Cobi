@@ -1,4 +1,4 @@
-class New():
+class new():
     #
 
     def __init__(self):
@@ -10,5 +10,6 @@ class New():
     def calculate(self):
         #
         #
-        
+
+        print("Calculating...")
         pass
