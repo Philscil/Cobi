@@ -1,1 +1,5 @@
-Hallo Frank. Du kjeke
+import test
+
+printtest = test.Test()
+
+printtest.writetest()

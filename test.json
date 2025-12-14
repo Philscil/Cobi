@@ -1,0 +1,12 @@
+{
+    "land1": {
+        "name": "Meadow",
+        "type": "grassland",
+        "area": 1500,
+        "features": {
+            "trees": 50,
+            "flowers": 200,
+            "ponds": 2
+        }
+    }
+}
